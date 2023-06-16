@@ -16,3 +16,4 @@ const nav = document.querySelector("nav");
 burger.addEventListener("click", () => {
     ul.classList.toggle("show");
 });
+
